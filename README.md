@@ -11,3 +11,7 @@ Improved Landscape Health Assessment (Nieto-Mora et al., 2023)
 Data for Climate and Environmental Change (Pijanowski et al., 2011)
 Applications in Conservation Strategies: e.g., predicting species breeding patterns or assessing habitat quality.
 Our contribution lies in leveraging advanced DL methods to improve rainfall detection accuracy, enabling domain experts to process environmental datasets more efficiently.
+
+The code is inspired by https://github.com/charanya78/fall_detection_audios/tree/main
+Other code is available in Google Colab
+amplititude: https://colab.research.google.com/drive/1XDaQyPSsUriSf82rm0R68BHCWapXy31W#scrollTo=plxGTPsRvl_l 
